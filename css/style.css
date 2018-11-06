@@ -1,0 +1,80 @@
+* {font-family: 'Noto Sans', sans-serif; color: #3c3c3b;} 
+
+.img-fluid {width: 100%;}
+
+a {color: #e2001a;}
+a:hover {color: #BA0217;}
+
+a.anchor {
+display: block;
+position: relative;
+top: 50px;
+visibility: hidden;
+}
+
+.navbar-dark {background-color: #3c3c3b!important;}
+
+.btn-gb{color:#fff;background-color:#e2001a;border-color:#BA0217}
+.btn-gb:hover{color:#fff;background-color:#e2001a;border-color:#BA0217}
+
+.btn-ra{color:#fff;background-color:#0076BD;border-color:#01588C}
+.btn-ra:hover{color:#fff;background-color:#0076BD;border-color:#01588C}
+
+.btn-ag{color:#fff;background-color:#266D3B;border-color:#163F22}
+.btn-ag:hover{color:#fff;background-color:#266D3B;border-color:#163F22}
+
+.btn-gbgroup{color:#fff;background-color:#3c3c3b;border-color:#050505; font-size: 0.8rem;}
+.btn-gbgroup:hover{color:#fff;background-color:#3c3c3b;border-color:#050505; font-size: 0.8rem;}
+
+.text-gb, .text-ra, .text-ag {font-size: 0.8rem;}
+
+
+.text-ag {color:#266D3B;}
+
+
+section {margin-top: 10rem; margin-bottom: 10rem;}
+
+#jumbo {
+background: url(../img/bg.jpg) no-repeat center top;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+padding-top: 7rem;
+padding-bottom: 36rem;
+text-align: center;
+}
+
+.standard li,
+.demand li {
+    font-size :10px;
+    text-align: justify;
+    list-style-type: '-';
+    margin-left: -1rem;
+    padding-left: -1rem;
+    
+}
+
+.title {
+    margin: 10px;
+    padding: 5px;
+    text-shadow: 1px 1px gray;
+}
+
+.shaddow {
+    box-shadow: 3px 3px gray;
+    height: 100%;
+}
+
+.col-6 {
+    margin: 10px 0px;
+}
+
+.titreh4 {
+    margin: 25px auto;
+    width: 25%;
+    padding: 15px;
+    box-shadow : 12px 12px  2px 1px gray;
+
+}
+
