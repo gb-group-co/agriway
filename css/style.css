@@ -27,6 +27,9 @@ a {
 a:hover {
     color: #255332;
 }
+.dropdown-item {
+    color: #000000!important;
+}
 .navbar-green {
     background-color: #266d3b!important;
 }
