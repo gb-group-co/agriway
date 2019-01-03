@@ -147,7 +147,7 @@ h2.title-range {
 
 .cookies {
     padding: 15px 50px;
-    display: inline;
+    display: none;
     background-color: white;
     bottom: 0px;
     border-top: 2px solid rgb(68, 68, 68);
