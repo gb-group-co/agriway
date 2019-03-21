@@ -152,6 +152,24 @@ h2.title-range {
         color: #3C3C3B;
     }
 
+    .btn-agri {
+        background-color: #266D3B;
+        color: white!important;
+        width: 100%;
+        font-size: 8px;
+        transition: all 1s;
+        -webkit-transition: all 1s;
+        -moz-transition: all 1s;
+        -o-transition: all 1s; 
+        margin: 2px;
+    }
+    
+    .btn-agri:hover{
+        background-color: white;
+        border: 1px solid #266D3B;
+        color: #266D3B!important;
+    }
+
     .cookies {
         padding: 15px 50px;
         display: none;
@@ -183,6 +201,24 @@ h2.title-range {
         background-color: white;
         border: 1px solid #3C3C3B;
         color: #3C3C3B;
+    }
+
+    .btn-agri {
+        background-color: #266D3B;
+        color: white!important;
+        width: 90%;
+        font-size: 8px;
+        transition: all 1s;
+        -webkit-transition: all 1s;
+        -moz-transition: all 1s;
+        -o-transition: all 1s; 
+        margin:2px;
+    }
+    
+    .btn-agri:hover{
+        background-color: white;
+        border: 1px solid #266D3B;
+        color: #266D3B!important;
     }
 
     .responsive {
